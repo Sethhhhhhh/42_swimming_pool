@@ -1,0 +1,7 @@
+Credentials cache: API:792DE56C-4AF1-48A5-89E8-34BD07591639
+        Principal: yviavant@42.FR
+
+  Issued                Expires               Principal
+Jul 29 13:25:04 2019  Aug  5 13:25:04 2019  krbtgt/42.FR@42.FR
+Jul 29 13:25:07 2019  Aug  5 13:25:04 2019  ldap/ldap-proxy.42.fr@42.FR
+Jul 29 13:25:07 2019  Aug  5 13:25:04 2019  HTTP/student-storage-2.42.fr@42.FR
